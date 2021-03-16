@@ -16,7 +16,7 @@ function App() {
         </Typography>
         <img 
           className={classes.image}
-          src='https://www.rashaunforrest.com/assets/img/frontend.png' 
+          src='https://geekflare.com/wp-content/uploads/2019/01/The-Front-End-Spectrum.png' 
           alt='memories'
         />
       </AppBar>
